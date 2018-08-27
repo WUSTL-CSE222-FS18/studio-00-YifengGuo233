@@ -93,8 +93,7 @@ Search for some additional IoT examples at other sites and find two examples tha
 ***Q6.  For each example: 1) provide a link to it, 2) provide a brief summary of it, and 3) explain how it corresponds to distinguishing features you identified above and/or or how you may want to revise your list of distinguishing features.  Use lists/sublists to format your answer to this question (A numbered list of 2 items, each of which as 3 sub-items):***
 
 
-|     Name      |     Features     |     Fact      |
-| ------------- |:-------------:| -----:| ------:|    
+|     Name      |     Features     |     Fact      | 
 | Smart home     |       Everything is connect to internet which can help a person manage their home      |    More than 60,000 people currently search for the term “Smart Home” each month    |
 |  Wearables     | Track your activity and help the person life better     |     there are plenty of other wearable innovations to be excited about: like the Sony Smart B Trainer, the Myo gesture control, or LookSee bracelet.     |
 
