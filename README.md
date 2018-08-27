@@ -107,6 +107,7 @@ Search for some additional IoT examples at other sites and find two examples tha
   2. Health Care
   3. Track Your Time
 
+My thinking about IoT is 'Internet Plus' Which is mean everything connect into internet and help people life better and more efficient.
 
 ## Part 3: Comparing with Peers
 
