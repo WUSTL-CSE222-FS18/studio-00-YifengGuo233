@@ -97,6 +97,8 @@ Search for some additional IoT examples at other sites and find two examples tha
 | ------------- |:-------------:|:------:|
 | Smart home | Everything is connect to internet which can help a person manage their home|More than 60,000 people currently search for the term “Smart Home” each month    |
 |  Wearables     | Track your activity and help the person life better     |  there are plenty of other wearable innovations to be excited about: like the Sony Smart B Trainer, the Myo gesture control, or LookSee bracelet.     |
+[I'm an inline-style link](https://iot-analytics.com/10-internet-of-things-applications/)
+
 
 1. Smart home
   1. Smart Light bulb
