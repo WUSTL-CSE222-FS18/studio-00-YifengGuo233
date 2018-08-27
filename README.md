@@ -17,6 +17,7 @@ It seem like all the header is green
 "Number. " will became red
 "`Something`" is blue
 "***Something***" is get bold and emphasize
+"**Something**" is only get bold
 
 ### Lists
 
